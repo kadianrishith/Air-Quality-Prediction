@@ -78,7 +78,7 @@ Air-Quality-Prediction/
 Installation and Setup
 1. Clone the repository
 bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/kadianrishith/Air-Quality-Prediction.git
 
 2. Navigate to the project folder
 bash
